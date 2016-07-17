@@ -10,7 +10,9 @@
     "type": "git",
     "url": "git@github.com:omulet/react-native-radial-menu.git"
   },
-  "dependencies": {},
+  "dependencies": {
+    "react-timer-mixin": "^0.13.3"
+  },
   "devDependencies": {},
   "keywords": [
     "react",
