@@ -103,6 +103,7 @@ var RadialMenu = React.createClass({
 
     onRootPressed: function(e) {
         e.stopPropagation();
+        e.preventDefault();
         this.toggleViewState()
     },
 
